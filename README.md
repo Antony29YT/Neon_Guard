@@ -260,8 +260,8 @@ href="https://www.youtube.com/watch?v=SYbEOZZ__Wo"><img src="https://github.com/
 
 <div align="center">
   <h2>👑 CREADOR DEL BOT 👑</h2>
-  <a href="https://github.com/antonylozanogl-stack">
-    <img src="https://github.com/antonylozanogl-stack.png" width="250" height="250" alt="𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔" style="border-radius: 50%; border: 5px solid gold; box-shadow: 0 0 20px rgba(255, 215, 0, 0.7);">
+  <a href="https://github.com/Antony29YT">
+    <img src="https://github.com/Antony29YT.png" width="250" height="250" alt="𝕱𝖊𝖗𝖓𝖆𝖓𝖉𝖔" style="border-radius: 50%; border: 5px solid gold; box-shadow: 0 0 20px rgba(255, 215, 0, 0.7);">
   </a>
   <h3>𝓐𝓷𝓽𝓸𝓷𝔂</h3>
   <a href="https://github.com/antonylozanogl-stack">
